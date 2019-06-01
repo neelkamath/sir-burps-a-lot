@@ -1,0 +1,18 @@
+/* Make media responsive. */
+img, video {
+    height: auto;
+    max-width: 100%;
+}
+
+#blob {
+    display: block;
+    margin: auto;
+    position: center;
+}
+
+#size, #text {
+    display: block;
+    margin: auto;
+    position: center;
+    text-align: center;
+}

@@ -1,0 +1,8 @@
+# Gradle
+.gradle/
+bin/
+build/
+web/
+
+# IDE
+.idea/
