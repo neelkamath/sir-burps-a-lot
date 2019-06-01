@@ -1,3 +1,7 @@
+body {
+    text-align: center;
+}
+
 /* Make media responsive. */
 img, video {
     height: auto;
@@ -10,9 +14,13 @@ img, video {
     position: center;
 }
 
-#size, #text {
+#github {
+    float: right;
+    width: 1.5em;
+}
+
+#size {
     display: block;
     margin: auto;
     position: center;
-    text-align: center;
 }
