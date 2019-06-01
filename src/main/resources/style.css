@@ -8,6 +8,13 @@ img, video {
     max-width: 100%;
 }
 
+.letter {
+    border-radius: 50%;
+    font-size: 1.75em;
+    margin: 0.1em;
+    width: 1.5em;
+}
+
 #blob {
     display: block;
     margin: auto;
@@ -17,6 +24,10 @@ img, video {
 #github {
     float: right;
     width: 1.5em;
+}
+
+#letters {
+    display: none;
 }
 
 #size {

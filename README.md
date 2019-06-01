@@ -25,6 +25,7 @@ This is a website containing a blob which burps the letters you type. You can ch
 
 - [Alphabet Burp Dataset](https://github.com/neelkamath/alphabet-burp-dataset)
 - [Kotlin JS Boilerplate](https://github.com/neelkamath/kotlin-js-boilerplate)
+- [Mobile device detection SO QA](https://stackoverflow.com/questions/3514784/what-is-the-best-way-to-detect-a-mobile-device/3540295#3540295)
 
 ## License
 
