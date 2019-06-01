@@ -1,5 +1,7 @@
 # Alpha Burper
 
+[Try it out!](https://sir-burps-a-lot.netlify.com/)
+
 This is a website containing a blob which burps the letters you type. You can change the speed of its burps by changing its size.
 
 ## Installation
