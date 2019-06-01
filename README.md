@@ -1,4 +1,4 @@
-# Alpha Burper
+# Sir Burps-a-Lot
 
 [Try it out!](https://sir-burps-a-lot.netlify.com/)
 
