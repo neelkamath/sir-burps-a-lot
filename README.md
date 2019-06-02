@@ -19,7 +19,9 @@ This is a website containing a blob which burps the letters you type. You can ch
 1. Run the first step again.
 1. Open `web/index.html` in your browser.
 
-![Screenshot](screenshot.png)
+![Desktop screenshot](screenshot_desktop.png)
+
+![Mobile screenshot](screenshot_mobile.png)
 
 ## Credits
 
